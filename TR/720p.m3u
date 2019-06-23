@@ -27,3 +27,7 @@ http://178.124.183.13/hls/CH_NATGEO/bw2000000/playlist.m3u8?version=2
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 tvg-id="PowerHDTurk.tr" tvg-name="Power HD Türk",Power HD Türk
 https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b1428000_sltur.m3u8?nimblesessionid=908721953
+#EXTINF:-1 tvg-id="NumberOneTV.tr" tvg-name="Number One HD",Number One HD
+https://stream-02.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDBZKkiS1kMNcDMUvh82By94)/dm/3/x67c77j/s/live-3.m3u8
+#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-name="Number 1 Türk HD",Number 1 Türk HD
+https://stream-04.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDHA8BC7a6KzXp_6p6touzTA)/dm/3/x67cguc/s/live-3.m3u8
