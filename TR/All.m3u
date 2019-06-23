@@ -95,3 +95,11 @@ https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b496000_sltur.m3u8
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b846000_sltur.m3u8
 #EXTINF:-1,DMAX 720p
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 tvg-id="PowerHDTurk.tr" tvg-name="Power HD Türk",Power HD Türk	360p
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b846000_sltur.m3u8?nimblesessionid=908721953
+#EXTINF:-1 tvg-id="PowerHDTurk.tr" tvg-name="Power HD Türk",Power HD Türk	480p
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b1012000_sltur.m3u8?nimblesessionid=908721953
+#EXTINF:-1 tvg-id="PowerHDTurk.tr" tvg-name="Power HD Türk",Power HD Türk	720p
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b1428000_sltur.m3u8?nimblesessionid=908721953
+#EXTINF:-1 tvg-id="PowerHDTurk.tr" tvg-name="Power HD Türk",Power HD Türk	1080p
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8?nimblesessionid=908721953
