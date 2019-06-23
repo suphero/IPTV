@@ -59,3 +59,13 @@ https://soledge20.dogannet.tv//S2/HLS_LIVE/kanaldnp/track_2_550/playlist.m3u8?ke
 https://soledge20.dogannet.tv//S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8?key=1b2d631fb50986438c7bb29dda66fc8c&live=true&app=com.kanald&min=0&max=1250
 #EXTINF:-1,Kanal D 720p
 https://soledge20.dogannet.tv//S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8?key=1b2d631fb50986438c7bb29dda66fc8c&live=true&app=com.kanald&min=0&max=1250
+#EXTINF:-1,CNN Türk 192p
+https://live.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_0_192/playlist.m3u8
+#EXTINF:-1,CNN Türk 320p
+https://live.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_1_320/playlist.m3u8
+#EXTINF:-1,CNN Türk 614p
+https://live.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_2_614/playlist.m3u8
+#EXTINF:-1,CNN Türk 750p
+https://live.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8
+#EXTINF:-1,CNN Türk 1000p
+https://live.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
