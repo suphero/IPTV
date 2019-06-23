@@ -23,3 +23,5 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1561336085/ei/
 https://stream-10.ix7.dailymotion.com/sec(EXnGEKb7CsE2pyQU86rzg-qDG0jj2kZrbEp8fE2ZrNE)/dm/3/x6bokr3/s/live-2.m3u8
 #EXTINF:-1 tvg-id="NATGEOGRAPHIC.tr" tvg-name="National Geographic",National Geographic
 http://178.124.183.13/hls/CH_NATGEO/bw2000000/playlist.m3u8?version=2
+#EXTINF:-1,DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8

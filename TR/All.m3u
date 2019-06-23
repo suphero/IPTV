@@ -89,3 +89,9 @@ https://stream-10.ix7.dailymotion.com/sec(EXnGEKb7CsE2pyQU86rzg-qDG0jj2kZrbEp8fE
 http://178.124.183.13/hls/CH_NATGEO/bw1200000/playlist.m3u8?version=2
 #EXTINF:-1 tvg-id="NATGEOGRAPHIC.tr" tvg-name="National Geographic",National Geographic 432p
 http://178.124.183.13/hls/CH_NATGEO/bw2000000/playlist.m3u8?version=2
+#EXTINF:-1,DMAX 240p
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b496000_sltur.m3u8
+#EXTINF:-1,DMAX 360p
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b846000_sltur.m3u8
+#EXTINF:-1,DMAX 720p
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
