@@ -25,11 +25,11 @@ https://foxtv-live-ad.ercdn.net/foxtv/foxtv_360p.m3u8?e=1561344664&st=gCLMavTiJN
 https://foxtv-live-ad.ercdn.net/foxtv/foxtv_480p.m3u8?e=1561344664&st=gCLMavTiJNpg2MJ4PlBS6A
 #EXTINF:-1,FOX Tv 720p
 https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1561344664&st=gCLMavTiJNpg2MJ4PlBS6A
-#EXTINF:-1,TLC Tv 240p
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC",TLC Tv 240p
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b496000_sltur.m3u8
-#EXTINF:-1,TLC Tv 360p
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC",TLC Tv 360p
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b846000_sltur.m3u8
-#EXTINF:-1,TLC Tv 720p
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC",TLC Tv 720p
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1,TV8 480p
 https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_480p.m3u8?e=1561352688&st=AUPCaiN_FKBA9kZTi0GI3A

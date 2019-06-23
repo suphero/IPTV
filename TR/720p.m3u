@@ -5,7 +5,7 @@ https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_720p_av-p.m3u8?sd=10&
 https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1,FOX Tv
 https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1561344664&st=gCLMavTiJNpg2MJ4PlBS6A
-#EXTINF:-1,TLC Tv
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC",TLC Tv
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1,TV8
 https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_720p.m3u8?e=1561352688&st=AUPCaiN_FKBA9kZTi0GI3A
