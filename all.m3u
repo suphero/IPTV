@@ -25,3 +25,9 @@ https://foxtv-live-ad.ercdn.net/foxtv/foxtv_360p.m3u8?e=1561344664&st=gCLMavTiJN
 https://foxtv-live-ad.ercdn.net/foxtv/foxtv_480p.m3u8?e=1561344664&st=gCLMavTiJNpg2MJ4PlBS6A
 #EXTINF:-1 tvg-id="" tvg-name="FOX Tv 720p" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/fox_tv.png" group-title="Haber",FOX Tv 720p
 https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1561344664&st=gCLMavTiJNpg2MJ4PlBS6A
+#EXTINF:-1 tvg-id="" tvg-name="TLC Tv 240p" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/fox_tv.png" group-title="Haber",TLC Tv 240p
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b496000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC Tv 360p" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/fox_tv.png" group-title="Haber",TLC Tv 360p
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b846000_sltur.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC Tv 720p" tvg-logo="https://www.tivibu.com.tr/assets/img/kanallar/fox_tv.png" group-title="Haber",TLC Tv 720p
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
