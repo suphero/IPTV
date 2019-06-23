@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,TRT 1
+https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_720p_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,NTV
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1,FOX Tv
+https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1561344664&st=gCLMavTiJNpg2MJ4PlBS6A
+#EXTINF:-1,TLC Tv
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1,TV8
+https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_720p.m3u8?e=1561352688&st=AUPCaiN_FKBA9kZTi0GI3A
+#EXTINF:-1,SHOW TV
+https://ciner-live.ercdn.net/showtv-aes/showtv-aes_720p.m3u8?e=1561315900&st=l03ROrzu7VNNOsyFYbcjkg&tv=1
+#EXTINF:-1,ATV
+https://trkvz-live.ercdn.net/atvhd/atvhd_720p.m3u8?st=sjec-FJxbGeKaYcha92cLA&e=1561354244&SessionID=25i11qmj55lncvykxsodyvs5&StreamGroup=canli-yayin&Site=atv&DeviceGroup=web
+#EXTINF:-1,Kanal D
+https://soledge20.dogannet.tv//S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8?key=1b2d631fb50986438c7bb29dda66fc8c&live=true&app=com.kanald&min=0&max=1250
+#EXTINF:-1,CNN Türk
+https://live.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:-1,Star TV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1561336085/ei/tcQPXfHCFMHJ1wKdhbv4Dw/ip/176.43.65.199/id/xbfzLTDNHNo.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r6---sn-4g5edne6.googlevideo.com/playlist_type/DVR/mm/44/mn/sn-4g5edne6/ms/lva/mv/u/pl/24/dover/11/keepalive/yes/mt/1561314010/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_type/sig/ALgxI2wwRAIgfVFz7w3vVrtHd0wuD43-U1_IbjLFsxJPvrFDisFa1N4CIHBzZ6xLSenQIKEkzgkW8EAdgvxLsPg43NStZvBGlxcS/lsparams/hls_chunk_host,mm,mn,ms,mv,pl/lsig/AHylml4wRgIhALUOQCBH2RDI7aW22YyPKBngxxW0GfBjXjJmlbCDL0FIAiEAgb_9KfSfIdo_3PwnRtRUacJ_EERs8mCJ9q5ZBhUIGz0%3D/playlist/index.m3u8
