@@ -49,13 +49,13 @@ https://trkvz-live.ercdn.net/atvhd/atvhd_360p.m3u8?st=sjec-FJxbGeKaYcha92cLA&e=1
 https://trkvz-live.ercdn.net/atvhd/atvhd_480p.m3u8?st=sjec-FJxbGeKaYcha92cLA&e=1561354244&SessionID=25i11qmj55lncvykxsodyvs5&StreamGroup=canli-yayin&Site=atv&DeviceGroup=web
 #EXTINF:-1,ATV 720p
 https://trkvz-live.ercdn.net/atvhd/atvhd_720p.m3u8?st=sjec-FJxbGeKaYcha92cLA&e=1561354244&SessionID=25i11qmj55lncvykxsodyvs5&StreamGroup=canli-yayin&Site=atv&DeviceGroup=web
-#EXTINF:-1,Kanal D 192p
+#EXTINF:-1,Kanal D 240p
 https://soledge20.dogannet.tv//S2/HLS_LIVE/kanaldnp/track_0_192/playlist.m3u8?key=1b2d631fb50986438c7bb29dda66fc8c&live=true&app=com.kanald&min=0&max=1250
-#EXTINF:-1,Kanal D 320p
+#EXTINF:-1,Kanal D 360p
 https://soledge20.dogannet.tv//S2/HLS_LIVE/kanaldnp/track_1_320/playlist.m3u8?key=1b2d631fb50986438c7bb29dda66fc8c&live=true&app=com.kanald&min=0&max=1250
-#EXTINF:-1,Kanal D 550p
+#EXTINF:-1,Kanal D 480p
 https://soledge20.dogannet.tv//S2/HLS_LIVE/kanaldnp/track_2_550/playlist.m3u8?key=1b2d631fb50986438c7bb29dda66fc8c&live=true&app=com.kanald&min=0&max=1250
-#EXTINF:-1,Kanal D 750p
+#EXTINF:-1,Kanal D 540p
 https://soledge20.dogannet.tv//S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8?key=1b2d631fb50986438c7bb29dda66fc8c&live=true&app=com.kanald&min=0&max=1250
-#EXTINF:-1,Kanal D 1250p
+#EXTINF:-1,Kanal D 720p
 https://soledge20.dogannet.tv//S2/HLS_LIVE/kanaldnp/track_4_1250/playlist.m3u8?key=1b2d631fb50986438c7bb29dda66fc8c&live=true&app=com.kanald&min=0&max=1250
