@@ -3,18 +3,12 @@
 https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV",NTV
 NTV.m3u
-#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox",FOX Tv 360p
-https://foxtv-live-ad.ercdn.net/foxtv/foxtv_360p.m3u8?e=1561344664&st=gCLMavTiJNpg2MJ4PlBS6A
-#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox",FOX Tv 480p
-https://foxtv-live-ad.ercdn.net/foxtv/foxtv_480p.m3u8?e=1561344664&st=gCLMavTiJNpg2MJ4PlBS6A
-#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox",FOX Tv 720p
-https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1561344664&st=gCLMavTiJNpg2MJ4PlBS6A
+#EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox",FOX Tv
+https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8?st=xEwhIh3xShJDDOFCtRklDg&e=1561417843
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC",TLC Tv
 TLC.m3u
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8",TV8 480p
-https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_480p.m3u8?e=1561352688&st=AUPCaiN_FKBA9kZTi0GI3A
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8",TV8 720p
-https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_720p.m3u8?e=1561352688&st=AUPCaiN_FKBA9kZTi0GI3A
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8",TV8
+https://tv8-tb-live.ercdn.net/tv8-geo/playlist.m3u8?st=4_pWYIR9UV9pb-K5tfJfrg&e=1561423003
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show",SHOW TV 360p
 https://ciner-live.ercdn.net/showtv-aes/showtv-aes_360p.m3u8?e=1561325202&st=dh1gLR4m6ja8FCmYQ4J3tA&tv=1
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show",SHOW TV 480p
@@ -77,43 +71,15 @@ https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b1012000_s
 https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b1428000_sltur.m3u8?nimblesessionid=908721953
 #EXTINF:-1 tvg-id="PowerHDTurk.tr" tvg-name="Power HD Türk",Power HD Türk 1080p
 https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8?nimblesessionid=908721953
-#EXTINF:-1 tvg-id="NumberOneTV.tr" tvg-name="Number One HD",Number One HD 180p
-https://stream-02.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDBZKkiS1kMNcDMUvh82By94)/dm/3/x67c77j/s/live-0.m3u8
-#EXTINF:-1 tvg-id="NumberOneTV.tr" tvg-name="Number One HD",Number One HD 288p
-https://stream-02.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDBZKkiS1kMNcDMUvh82By94)/dm/3/x67c77j/s/live-1.m3u8
-#EXTINF:-1 tvg-id="NumberOneTV.tr" tvg-name="Number One HD",Number One HD 477p
-https://stream-02.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDBZKkiS1kMNcDMUvh82By94)/dm/3/x67c77j/s/live-2.m3u8
-#EXTINF:-1 tvg-id="NumberOneTV.tr" tvg-name="Number One HD",Number One HD 720p
-https://stream-02.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDBZKkiS1kMNcDMUvh82By94)/dm/3/x67c77j/s/live-3.m3u8
-#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-name="Number 1 Türk HD",Number 1 Türk HD 180p
-https://stream-04.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDHA8BC7a6KzXp_6p6touzTA)/dm/3/x67cguc/s/live-0.m3u8
-#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-name="Number 1 Türk HD",Number 1 Türk HD 288p
-https://stream-04.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDHA8BC7a6KzXp_6p6touzTA)/dm/3/x67cguc/s/live-1.m3u8
-#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-name="Number 1 Türk HD",Number 1 Türk HD 477p
-https://stream-04.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDHA8BC7a6KzXp_6p6touzTA)/dm/3/x67cguc/s/live-2.m3u8
-#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-name="Number 1 Türk HD",Number 1 Türk HD 720p
-https://stream-04.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDHA8BC7a6KzXp_6p6touzTA)/dm/3/x67cguc/s/live-3.m3u8
-#EXTINF:-1 tvg-id="FashionOneTV.tr" tvg-name="FashionOne TV",FashionOne TV 181p
-https://stream-01.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDHk0eBF7NIhl8cBefreF82k)/dm/3/x67chk3/s/live-0.m3u8
-#EXTINF:-1 tvg-id="FashionOneTV.tr" tvg-name="FashionOne TV",FashionOne TV 288p
-https://stream-01.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDHk0eBF7NIhl8cBefreF82k)/dm/3/x67chk3/s/live-1.m3u8
-#EXTINF:-1 tvg-id="FashionOneTV.tr" tvg-name="FashionOne TV",FashionOne TV 408p
-https://stream-01.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDHk0eBF7NIhl8cBefreF82k)/dm/3/x67chk3/s/live-2.m3u8
-#EXTINF:-1,Number 1 Dance 181p
-https://stream-07.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDFp3QPYOOR4J_YRKDoLJq2U)/dm/3/x67chco/s/live-0.m3u8
-#EXTINF:-1,Number 1 Dance 288p
-https://stream-07.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDFp3QPYOOR4J_YRKDoLJq2U)/dm/3/x67chco/s/live-1.m3u8
-#EXTINF:-1,Number 1 Dance 408p
-https://stream-07.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDFp3QPYOOR4J_YRKDoLJq2U)/dm/3/x67chco/s/live-2.m3u8
-#EXTINF:-1,Number 1 Damar 176p
-https://stream-05.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDL773CpsySfDdt53riYdobc)/dm/3/x67ch8g/s/live-0.m3u8
-#EXTINF:-1,Number 1 Damar 287p
-https://stream-05.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDL773CpsySfDdt53riYdobc)/dm/3/x67ch8g/s/live-1.m3u8
-#EXTINF:-1,Number 1 Damar 404p
-https://stream-05.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDL773CpsySfDdt53riYdobc)/dm/3/x67ch8g/s/live-2.m3u8
-#EXTINF:-1,Number 1 Aşk 181p
-https://stream-15.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDC85JVJ4nfnmqMcLdqS2zmQ)/dm/3/x67ch24/s/live-0.m3u8
-#EXTINF:-1,Number 1 Aşk 288p
-https://stream-15.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDC85JVJ4nfnmqMcLdqS2zmQ)/dm/3/x67ch24/s/live-1.m3u8
-#EXTINF:-1,Number 1 Aşk 408p
-https://stream-15.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDC85JVJ4nfnmqMcLdqS2zmQ)/dm/3/x67ch24/s/live-2.m3u8
+#EXTINF:-1 tvg-id="NumberOneTV.tr" tvg-name="Number One HD",Number One HD
+https://stream-02.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDBZKkiS1kMNcDMUvh82By94)/dm/3/x67c77j/live.m3u8
+#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-name="Number 1 Türk HD",Number 1 Türk HD
+https://stream-04.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDHA8BC7a6KzXp_6p6touzTA)/dm/3/x67cguc/live.m3u8
+#EXTINF:-1 tvg-id="FashionOneTV.tr" tvg-name="FashionOne TV",FashionOne TV
+https://stream-03.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDId2lLqWkTlTRH4xloZdIEU)/dm/3/x67chk3/live.m3u8
+#EXTINF:-1,Number 1 Dance
+https://stream-07.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDFp3QPYOOR4J_YRKDoLJq2U)/dm/3/x67chco/live.m3u8
+#EXTINF:-1,Number 1 Damar
+https://stream-05.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDL773CpsySfDdt53riYdobc)/dm/3/x67ch8g/live.m3u8
+#EXTINF:-1,Number 1 Aşk
+https://stream-15.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDC85JVJ4nfnmqMcLdqS2zmQ)/dm/3/x67ch24/live.m3u8
