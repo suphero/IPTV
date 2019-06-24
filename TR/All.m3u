@@ -9,12 +9,8 @@ https://foxtv-live-ad.ercdn.net/foxtv/foxtv_360p.m3u8?e=1561344664&st=gCLMavTiJN
 https://foxtv-live-ad.ercdn.net/foxtv/foxtv_480p.m3u8?e=1561344664&st=gCLMavTiJNpg2MJ4PlBS6A
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox",FOX Tv 720p
 https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1561344664&st=gCLMavTiJNpg2MJ4PlBS6A
-#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC",TLC Tv 240p
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b496000_sltur.m3u8
-#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC",TLC Tv 360p
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b846000_sltur.m3u8
-#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC",TLC Tv 720p
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC",TLC Tv
+TLC.m3u
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8",TV8 480p
 https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_480p.m3u8?e=1561352688&st=AUPCaiN_FKBA9kZTi0GI3A
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8",TV8 720p
@@ -25,14 +21,8 @@ https://ciner-live.ercdn.net/showtv-aes/showtv-aes_360p.m3u8?e=1561325202&st=dh1
 https://ciner-live.ercdn.net/showtv-aes/showtv-aes_480p.m3u8?e=1561325202&st=dh1gLR4m6ja8FCmYQ4J3tA&tv=1
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show",SHOW TV 720p
 https://ciner-live.ercdn.net/showtv-aes/showtv-aes_720p.m3u8?e=1561325202&st=dh1gLR4m6ja8FCmYQ4J3tA&tv=1
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV",ATV 240p
-https://trkvz-live.ercdn.net/atvhd/atvhd_240p.m3u8?st=sjec-FJxbGeKaYcha92cLA&e=1561354244&SessionID=25i11qmj55lncvykxsodyvs5&StreamGroup=canli-yayin&Site=atv&DeviceGroup=web
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV",ATV 360p
-https://trkvz-live.ercdn.net/atvhd/atvhd_360p.m3u8?st=sjec-FJxbGeKaYcha92cLA&e=1561354244&SessionID=25i11qmj55lncvykxsodyvs5&StreamGroup=canli-yayin&Site=atv&DeviceGroup=web
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV",ATV 480p
-https://trkvz-live.ercdn.net/atvhd/atvhd_480p.m3u8?st=sjec-FJxbGeKaYcha92cLA&e=1561354244&SessionID=25i11qmj55lncvykxsodyvs5&StreamGroup=canli-yayin&Site=atv&DeviceGroup=web
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV",ATV 720p
-https://trkvz-live.ercdn.net/atvhd/atvhd_720p.m3u8?st=sjec-FJxbGeKaYcha92cLA&e=1561354244&SessionID=25i11qmj55lncvykxsodyvs5&StreamGroup=canli-yayin&Site=atv&DeviceGroup=web
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV",ATV
+https://trkvz-live.ercdn.net/atvhd/atvhd.m3u8?st=lR3BMQ-fA_6SGFXcXEzZeA&e=1561460877&SessionID=2eptzwdqe3txofhkkwo0pmpj&StreamGroup=canli-yayin&Site=atv&DeviceGroup=web
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D",Kanal D 240p
 https://soledge20.dogannet.tv//S2/HLS_LIVE/kanaldnp/track_0_192/playlist.m3u8?key=1b2d631fb50986438c7bb29dda66fc8c&live=true&app=com.kanald&min=0&max=1250
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D",Kanal D 360p
