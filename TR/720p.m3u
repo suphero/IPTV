@@ -31,3 +31,11 @@ https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b1428000_s
 https://stream-02.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDBZKkiS1kMNcDMUvh82By94)/dm/3/x67c77j/s/live-3.m3u8
 #EXTINF:-1 tvg-id="Number1Turk.tr" tvg-name="Number 1 Türk HD",Number 1 Türk HD
 https://stream-04.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDHA8BC7a6KzXp_6p6touzTA)/dm/3/x67cguc/s/live-3.m3u8
+#EXTINF:-1 tvg-id="FashionOneTV.tr" tvg-name="FashionOne TV",FashionOne TV
+https://stream-01.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDHk0eBF7NIhl8cBefreF82k)/dm/3/x67chk3/s/live-2.m3u8
+#EXTINF:-1,Number 1 Dance
+https://stream-07.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDFp3QPYOOR4J_YRKDoLJq2U)/dm/3/x67chco/s/live-2.m3u8
+#EXTINF:-1,Number 1 Damar
+https://stream-05.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDL773CpsySfDdt53riYdobc)/dm/3/x67ch8g/s/live-2.m3u8
+#EXTINF:-1,Number 1 Aşk
+https://stream-15.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDC85JVJ4nfnmqMcLdqS2zmQ)/dm/3/x67ch24/s/live-2.m3u8
