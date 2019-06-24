@@ -21,8 +21,6 @@ https://live.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1561336085/ei/tcQPXfHCFMHJ1wKdhbv4Dw/ip/176.43.65.199/id/xbfzLTDNHNo.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r6---sn-4g5edne6.googlevideo.com/playlist_type/DVR/mm/44/mn/sn-4g5edne6/ms/lva/mv/u/pl/24/dover/11/keepalive/yes/mt/1561314010/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_type/sig/ALgxI2wwRAIgfVFz7w3vVrtHd0wuD43-U1_IbjLFsxJPvrFDisFa1N4CIHBzZ6xLSenQIKEkzgkW8EAdgvxLsPg43NStZvBGlxcS/lsparams/hls_chunk_host,mm,mn,ms,mv,pl/lsig/AHylml4wRgIhALUOQCBH2RDI7aW22YyPKBngxxW0GfBjXjJmlbCDL0FIAiEAgb_9KfSfIdo_3PwnRtRUacJ_EERs8mCJ9q5ZBhUIGz0%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV",Halk TV
 https://stream-10.ix7.dailymotion.com/sec(EXnGEKb7CsE2pyQU86rzg-qDG0jj2kZrbEp8fE2ZrNE)/dm/3/x6bokr3/s/live-2.m3u8
-#EXTINF:-1 tvg-id="NATGEOGRAPHIC.tr" tvg-name="National Geographic",National Geographic
-http://178.124.183.13/hls/CH_NATGEO/bw2000000/playlist.m3u8?version=2
 #EXTINF:-1,DMAX
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 tvg-id="PowerHDTurk.tr" tvg-name="Power HD Türk",Power HD Türk

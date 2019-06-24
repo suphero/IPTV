@@ -27,30 +27,12 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1561336085/ei/
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1561336085/ei/tcQPXfHCFMHJ1wKdhbv4Dw/ip/176.43.65.199/id/xbfzLTDNHNo.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/r6---sn-4g5edne6.googlevideo.com/playlist_type/DVR/mm/44/mn/sn-4g5edne6/ms/lva/mv/u/pl/24/dover/11/keepalive/yes/mt/1561314010/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_type/sig/ALgxI2wwRgIhANbRr3rr3ypF_pBKVzRaomxeWeq-oRjfP8EV80AVSvVDAiEAid-0gqv_pDi9onhWNooTY1DcEbAmQ3N4DqDV5gsYN1c%3D/lsparams/hls_chunk_host,mm,mn,ms,mv,pl/lsig/AHylml4wRgIhAJLaUATZUF2Tn8fQXXR2mbVhZQN-NpeXhZPRRdLhq67WAiEA6LD2udqMfdfa4v4PjM4-ovJjsimBuONNiqvyxXxn9uA%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="Start.tr" tvg-name="STAR TV",Star TV 720p
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1561336085/ei/tcQPXfHCFMHJ1wKdhbv4Dw/ip/176.43.65.199/id/xbfzLTDNHNo.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r6---sn-4g5edne6.googlevideo.com/playlist_type/DVR/mm/44/mn/sn-4g5edne6/ms/lva/mv/u/pl/24/dover/11/keepalive/yes/mt/1561314010/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_type/sig/ALgxI2wwRAIgfVFz7w3vVrtHd0wuD43-U1_IbjLFsxJPvrFDisFa1N4CIHBzZ6xLSenQIKEkzgkW8EAdgvxLsPg43NStZvBGlxcS/lsparams/hls_chunk_host,mm,mn,ms,mv,pl/lsig/AHylml4wRgIhALUOQCBH2RDI7aW22YyPKBngxxW0GfBjXjJmlbCDL0FIAiEAgb_9KfSfIdo_3PwnRtRUacJ_EERs8mCJ9q5ZBhUIGz0%3D/playlist/index.m3u8
-#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV",Halk TV 240p
-https://stream-10.ix7.dailymotion.com/sec(EXnGEKb7CsE2pyQU86rzg-qDG0jj2kZrbEp8fE2ZrNE)/dm/3/x6bokr3/s/live-0.m3u8
-#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV",Halk TV 288p
-https://stream-10.ix7.dailymotion.com/sec(EXnGEKb7CsE2pyQU86rzg-qDG0jj2kZrbEp8fE2ZrNE)/dm/3/x6bokr3/s/live-1.m3u8
-#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV",Halk TV 480p
-https://stream-10.ix7.dailymotion.com/sec(EXnGEKb7CsE2pyQU86rzg-qDG0jj2kZrbEp8fE2ZrNE)/dm/3/x6bokr3/s/live-2.m3u8
-#EXTINF:-1 tvg-id="NATGEOGRAPHIC.tr" tvg-name="National Geographic",National Geographic 360p
-http://178.124.183.13/hls/CH_NATGEO/bw1200000/playlist.m3u8?version=2
-#EXTINF:-1 tvg-id="NATGEOGRAPHIC.tr" tvg-name="National Geographic",National Geographic 432p
-http://178.124.183.13/hls/CH_NATGEO/bw2000000/playlist.m3u8?version=2
-#EXTINF:-1,DMAX 240p
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b496000_sltur.m3u8
-#EXTINF:-1,DMAX 360p
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b846000_sltur.m3u8
-#EXTINF:-1,DMAX 720p
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1 tvg-id="PowerHDTurk.tr" tvg-name="Power HD Türk",Power HD Türk 360p
-https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b846000_sltur.m3u8?nimblesessionid=908721953
-#EXTINF:-1 tvg-id="PowerHDTurk.tr" tvg-name="Power HD Türk",Power HD Türk 480p
-https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b1012000_sltur.m3u8?nimblesessionid=908721953
-#EXTINF:-1 tvg-id="PowerHDTurk.tr" tvg-name="Power HD Türk",Power HD Türk 720p
-https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b1428000_sltur.m3u8?nimblesessionid=908721953
-#EXTINF:-1 tvg-id="PowerHDTurk.tr" tvg-name="Power HD Türk",Power HD Türk 1080p
-https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8?nimblesessionid=908721953
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV",Halk TV
+https://stream-09.dc3.dailymotion.com/sec(EXnGEKb7CsE2pyQU86rzg2gMfUJXSvX7FxzgIF0Rcek)/dm/3/x6bokr3/live.m3u8
+#EXTINF:-1,DMAX
+DMAX.m3u
+#EXTINF:-1 tvg-id="PowerHDTurk.tr" tvg-name="Power HD Türk",Power HD Türk
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NumberOneTV.tr" tvg-name="Number One HD",Number One HD
 https://stream-02.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDBZKkiS1kMNcDMUvh82By94)/dm/3/x67c77j/live.m3u8
 #EXTINF:-1 tvg-id="Number1Turk.tr" tvg-name="Number 1 Türk HD",Number 1 Türk HD
