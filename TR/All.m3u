@@ -1,24 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1 360p
-https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_360p_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1 360p
-https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_360p_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1 480p
-https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_480p_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1 480p
-https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_480p_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1 720p
-https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_720p_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1 720p
-https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_720p_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1 720p
-https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_720pp_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1 720p
-https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_720pp_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV",NTV 360p
-https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV",NTV 720p
-https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1
+https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV",NTV
+./NTV.m3u
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox",FOX Tv 360p
 https://foxtv-live-ad.ercdn.net/foxtv/foxtv_360p.m3u8?e=1561344664&st=gCLMavTiJNpg2MJ4PlBS6A
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox",FOX Tv 480p
