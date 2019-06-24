@@ -11,3 +11,12 @@ You don't need to pay for a TV provider if you can stream videos online (and you
 ![Playlist](playlist.png)
 
 - I am trying to update the playlist and your app will show updated version :)
+
+## To Do
+
+- [ ] Extend existing playlists
+- [ ] Create categories
+- [ ] Create playlists for other countries
+- [ ] Link checking
+- [ ] Link generating
+- [ ] m3u file generation from file (.csv)
