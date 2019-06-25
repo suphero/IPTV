@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1
 https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV",NTV
-NTV.m3u
+https://raw.githubusercontent.com/suphero/IPTV/master/TR/NTV.m3u
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox",FOX Tv
 https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8?st=xEwhIh3xShJDDOFCtRklDg&e=1561417843
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC",TLC Tv
-TLC.m3u
+https://raw.githubusercontent.com/suphero/IPTV/master/TR/TLC.m3u
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8",TV8
 https://tv8-tb-live.ercdn.net/tv8-geo/playlist.m3u8?st=4_pWYIR9UV9pb-K5tfJfrg&e=1561423003
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show",SHOW TV
@@ -22,7 +22,7 @@ https://www.youtube.com/embed/xbfzLTDNHNo
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV",Halk TV
 https://stream-09.dc3.dailymotion.com/sec(EXnGEKb7CsE2pyQU86rzg2gMfUJXSvX7FxzgIF0Rcek)/dm/3/x6bokr3/live.m3u8
 #EXTINF:-1,DMAX
-DMAX.m3u
+https://raw.githubusercontent.com/suphero/IPTV/master/TR/DMAX.m3u
 #EXTINF:-1 tvg-id="PowerHDTurk.tr" tvg-name="Power HD Türk",Power HD Türk
 https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NumberOneTV.tr" tvg-name="Number One HD",Number One HD
