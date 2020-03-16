@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV",NTV
-https://www.youtube.com/watch?v=XEJM4Hcgd3M
+https://youtu.be/XEJM4Hcgd3M,live
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC",TLC Tv
 https://youtu.be/IMy6RvwMJLs
 #EXTINF:-1 tvg-id="CNNTURK.tr" tvg-name="CNN TÜRK",CNN Türk
