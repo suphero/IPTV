@@ -10,7 +10,7 @@ TLC.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8",TV8
 https://tv8-tb-live.ercdn.net/tv8-geo/playlist.m3u8?st=4_pWYIR9UV9pb-K5tfJfrg&e=1561423003
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show",SHOW TV
-https://ciner-live.ercdn.net/showtv-aes/playlist.m3u8?e=1561423340&st=dK9j2Dolbb9HE3fB6unMwg&tv=1
+https://ciner-live.ercdn.net/showtv-aes/playlist.m3u8?e=1584394380&st=Hj6U-mRzBdxULb2TRiYPEA&tv=1
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV",ATV
 https://trkvz-live.ercdn.net/atvhd/atvhd.m3u8?st=lR3BMQ-fA_6SGFXcXEzZeA&e=1561460877&SessionID=2eptzwdqe3txofhkkwo0pmpj&StreamGroup=canli-yayin&Site=atv&DeviceGroup=web
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D",Kanal D
