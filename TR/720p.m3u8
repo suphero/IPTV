@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1
-https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_720p_av-p.m3u8?sd=10&rebase=on
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV",NTV
 https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox",FOX Tv
-https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1561344664&st=gCLMavTiJNpg2MJ4PlBS6A
+https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1585441079&st=1CXs-dvEoQI06EGeurLFkA
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC",TLC Tv
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8",TV8
-https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_720p.m3u8?e=1561352688&st=AUPCaiN_FKBA9kZTi0GI3A
+https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_720p.m3u8?e=1585445824&st=aAI8cXmMU9I9XLgdGJr3bQ
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show",SHOW TV
-https://ciner-live.ercdn.net/showtv-aes/showtv-aes_720p.m3u8?e=1584394622&st=7aINhffQ574zv-4wSIgxxg&tv=1
+https://ciner-live.ercdn.net/showtv-aes/showtv-aes_720p.m3u8?e=1585402690&st=mdYnLfw7ezBl5mMQLL3NeA&tv=1
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV",ATV
 https://trkvz-live.ercdn.net/atvhd/atvhd_720p.m3u8?st=sjec-FJxbGeKaYcha92cLA&e=1561354244&SessionID=25i11qmj55lncvykxsodyvs5&StreamGroup=canli-yayin&Site=atv&DeviceGroup=web
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D",Kanal D
