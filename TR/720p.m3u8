@@ -8,7 +8,7 @@ https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8?e=1585441079&st=1CXs-dvEoQ
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC",TLC Tv
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8",TV8
-https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_720p.m3u8?e=1585445824&st=aAI8cXmMU9I9XLgdGJr3bQ
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/chunklist_b564000.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show",SHOW TV
 https://ciner-live.ercdn.net/showtv-aes/showtv-aes_720p.m3u8?e=1585402690&st=mdYnLfw7ezBl5mMQLL3NeA&tv=1
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV",ATV
