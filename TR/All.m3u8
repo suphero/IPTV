@@ -42,7 +42,7 @@ https://mn-nl.mncdn.com/blutv_ebao/ebao_sd.smil/playlist.m3u8
 #EXTINF:-1,TRT EBA TV - Lise
 https://mn-nl.mncdn.com/blutv_ebal/ebal_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC",TLC Tv
-TLC.m3u8
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV",ATV
 https://trkvz-live.ercdn.net/atvhd/atvhd.m3u8?st=lR3BMQ-fA_6SGFXcXEzZeA&e=1561460877&SessionID=2eptzwdqe3txofhkkwo0pmpj&StreamGroup=canli-yayin&Site=atv&DeviceGroup=web
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV",Halk TV
