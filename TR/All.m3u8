@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1
 https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV",NTV
 NTV.m3u8
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV",NTV
+https://mn-nl.mncdn.com/blutv_ntv/ntv_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox",FOX Tv
 https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8?st=46fz09f6tWnOim1H2EGrHQ&e=1597512788
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC",TLC Tv
@@ -11,16 +15,26 @@ TLC.m3u8
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show",SHOW TV
 https://ciner-live.ercdn.net/showtv-aes/playlist.m3u8?e=1584394380&st=Hj6U-mRzBdxULb2TRiYPEA&tv=1
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show",SHOW TV
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV",ATV
 https://trkvz-live.ercdn.net/atvhd/atvhd.m3u8?st=lR3BMQ-fA_6SGFXcXEzZeA&e=1561460877&SessionID=2eptzwdqe3txofhkkwo0pmpj&StreamGroup=canli-yayin&Site=atv&DeviceGroup=web
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D",Kanal D
 https://soledge20.dogannet.tv//S2/HLS_LIVE/kanaldnp/playlist.m3u8?key=1b2d631fb50986438c7bb29dda66fc8c&live=true&app=com.kanald&min=0&max=1250
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D",Kanal D
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNTURK.tr" tvg-name="CNN TÜRK",CNN Türk
 https://live.dogannet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNTURK.tr" tvg-name="CNN TÜRK",CNN Türk
+https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Start.tr" tvg-name="STAR TV",Star TV
 https://www.youtube.com/embed/xbfzLTDNHNo
+#EXTINF:-1 tvg-id="Start.tr" tvg-name="STAR TV",Star TV
+https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV",Halk TV
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV",Halk TV
 https://stream-09.dc3.dailymotion.com/sec(EXnGEKb7CsE2pyQU86rzg2gMfUJXSvX7FxzgIF0Rcek)/dm/3/x6bokr3/live.m3u8
+https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/playlist.m3u8
 #EXTINF:-1,DMAX
 DMAX.m3u8
 #EXTINF:-1 tvg-id="PowerHDTurk.tr" tvg-name="Power HD Türk",Power HD Türk
@@ -37,3 +51,27 @@ https://stream-07.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDFp3QPYOOR4J_YRKDo
 https://stream-05.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDL773CpsySfDdt53riYdobc)/dm/3/x67ch8g/live.m3u8
 #EXTINF:-1,Number 1 Aşk
 https://stream-15.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDC85JVJ4nfnmqMcLdqS2zmQ)/dm/3/x67ch24/live.m3u8
+#EXTINF:-1,A2
+https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd.smil/playlist.m3u8
+#EXTINF:-1,teve2
+https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/playlist.m3u8
+#EXTINF:-1,Kanal 7
+https://mn-nl.mncdn.com/blutv_kanal7/kanal7_sd.smil/playlist.m3u8
+#EXTINF:-1,TV8.5
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/playlist.m3u8
+#EXTINF:-1,Woman TV
+https://mn-nl.mncdn.com/blutv_womankadin/smil:womankadin_sd.smil/playlist.m3u8
+#EXTINF:-1,Uçankuş TV
+https://mn-nl.mncdn.com/blutv_ucankus/ucankus_sd.smil/playlist.m3u8
+#EXTINF:-1,Habertürk
+https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/playlist.m3u8
+#EXTINF:-1,Haber Global
+https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_sd.smil/playlist.m3u8
+#EXTINF:-1,TRT Haber
+https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_sd.smil/playlist.m3u8
+#EXTINF:-1,TGRT Haber
+https://mn-nl.mncdn.com/blutv_tgrthaber/smil:tgrthaber_sd.smil/playlist.m3u8
+#EXTINF:-1,Bloomberg
+https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/playlist.m3u8
+#EXTINF:-1,A Para
+https://mn-nl.mncdn.com/blutv_apara/smil:apara_sd.smil/playlist.m3u8
