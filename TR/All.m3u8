@@ -46,13 +46,13 @@ TLC.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV",ATV
 https://trkvz-live.ercdn.net/atvhd/atvhd.m3u8?st=lR3BMQ-fA_6SGFXcXEzZeA&e=1561460877&SessionID=2eptzwdqe3txofhkkwo0pmpj&StreamGroup=canli-yayin&Site=atv&DeviceGroup=web
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV",Halk TV
-https://stream-09.dc3.dailymotion.com/sec(EXnGEKb7CsE2pyQU86rzg2gMfUJXSvX7FxzgIF0Rcek)/dm/3/x6bokr3/live.m3u8
-#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV",Halk TV
 https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/playlist.m3u8
 #EXTINF:-1,DMAX
 DMAX.m3u8
 #EXTINF:-1 tvg-id="PowerHDTurk.tr" tvg-name="Power HD Türk",Power HD Türk
-https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/playlist.m3u8
+#EXTINF:-1,Power HD
+https://mn-nl.mncdn.com/blutv_power/smil:power_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NumberOneTV.tr" tvg-name="Number One HD",Number One HD
 https://stream-02.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDBZKkiS1kMNcDMUvh82By94)/dm/3/x67c77j/live.m3u8
 #EXTINF:-1 tvg-id="Number1Turk.tr" tvg-name="Number 1 Türk HD",Number 1 Türk HD
@@ -73,3 +73,5 @@ https://mn-nl.mncdn.com/blutv_ucankus/ucankus_sd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/playlist.m3u8
 #EXTINF:-1,A Para
 https://mn-nl.mncdn.com/blutv_apara/smil:apara_sd.smil/playlist.m3u8
+#EXTINF:-1,Dream Türk
+https://mn-nl.mncdn.com/blutv_dreamturk/smil:dreamturk_sd.smil/playlist.m3u8
