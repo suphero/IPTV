@@ -5,7 +5,7 @@ You don't need to pay for a TV provider if you can stream videos online (and you
 - Download [Smart IPTV app](https://siptv.eu/howto/) for your TV
 - Activate your TV on [Smart IPTV Activation](https://siptv.eu/activation/) for 5.49 USD ( Yes, I paid too :[ )
 - Upload the playlist with URL you prefer:
-  - [TR: All](https://raw.githubusercontent.com/suphero/IPTV/master/TR/All.m3u8)
+  - [Turkish](https://raw.githubusercontent.com/suphero/IPTV/master/TR/All.m3u8)
 
 ![Playlist](playlist.png)
 
