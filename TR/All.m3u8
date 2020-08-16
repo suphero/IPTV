@@ -8,7 +8,7 @@ https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1
 https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox",FOX Tv
-http://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist.m3u8
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8",TV8
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/playlist.m3u8
 #EXTINF:-1,A2
@@ -76,23 +76,23 @@ http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV",Halk TV
 https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_hd.smil/playlist.m3u8
 #EXTINF:-1,DMAX
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1828000_sltur.m3u8
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.sltur.m3u8
 #EXTINF:-1 tvg-id="PowerHDTurk.tr" tvg-name="Power HD Türk",Power HD Türk
 https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_hd.smil/playlist.m3u8
 #EXTINF:-1,Power HD
 https://mn-nl.mncdn.com/blutv_power/smil:power_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NumberOneTV.tr" tvg-name="Number One HD",Number One HD
-https://stream-02.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDBZKkiS1kMNcDMUvh82By94)/dm/3/x67c77j/live.m3u8
+https://www.dailymotion.com/cdn/live/video/x67c77j.m3u8?sec=LJtvtKeJUrufLnUPMdcPQOnnROXJCgtb9aPqNZ3Ckh5Y37wKMt27nRZudxxkKC5aJNoNyNq0gle3a4VQVjIHWQ
 #EXTINF:-1 tvg-id="Number1Turk.tr" tvg-name="Number 1 Türk HD",Number 1 Türk HD
-https://stream-04.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDHA8BC7a6KzXp_6p6touzTA)/dm/3/x67cguc/live.m3u8
+https://www.dailymotion.com/cdn/live/video/x67cguc.m3u8?sec=vqsxvBQAygUnJbmZPvT2-2oGWEv5d2y5oaK4dwkNGcYOU1chbDkdw8wSh7rNDynjK2hWDoDiRCzaCxEmS8XohQ
 #EXTINF:-1 tvg-id="FashionOneTV.tr" tvg-name="FashionOne TV",FashionOne TV
-https://stream-03.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDId2lLqWkTlTRH4xloZdIEU)/dm/3/x67chk3/live.m3u8
+https://www.dailymotion.com/cdn/live/video/x67chk3.m3u8?sec=N7UOwfVmtHJ2rem3UAEjt2KMvzU_1MKQX-glwxOcDk-wfZC18w6iTt5dystLWJkDTlbFOZb5CbN6I1bv2RjOtg
 #EXTINF:-1,Number 1 Dance
-https://stream-07.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDFp3QPYOOR4J_YRKDoLJq2U)/dm/3/x67chco/live.m3u8
+https://www.dailymotion.com/cdn/live/video/x67chco.m3u8?sec=fSZHAaNMf64Q7A_l1YFmPq4PXd2Caq72VTnhC_ukALM8dLMui1H2qNO9QTiQB6A0qBhVMlbxbfZDXLNXjLbH5Q
 #EXTINF:-1,Number 1 Damar
-https://stream-05.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDL773CpsySfDdt53riYdobc)/dm/3/x67ch8g/live.m3u8
+https://www.dailymotion.com/cdn/live/video/x67ch8g.m3u8?sec=Y0_R4QJenccVnkka_Rz97yn79rbg5mWNcdwED_Wae57Eo2NDcYjmHclrj_jlYYaeBtWopY4XPIO1CTWhT9zOPg
 #EXTINF:-1,Number 1 Aşk
-https://stream-15.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDC85JVJ4nfnmqMcLdqS2zmQ)/dm/3/x67ch24/live.m3u8
+https://www.dailymotion.com/cdn/live/video/x67ch24.m3u8?sec=gVJKPuumWkrlQrxej2XrR3N2KcmSwG2-dsclkdaT0qvyf64qHqmzya6aiSrBgLyxuvpRhbzgvR0Lo7JPEt4WTQ
 #EXTINF:-1,Woman TV
 https://mn-nl.mncdn.com/blutv_womankadin/smil:womankadin_hd.smil/playlist.m3u8
 #EXTINF:-1,Uçankuş TV
