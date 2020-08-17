@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show",SHOW TV
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1
-https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_hd.smil/playlist.m3u8
+https://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D",Kanal D
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV",ATV
@@ -20,7 +20,7 @@ https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
 #EXTINF:-1,Bloomberg HT
 https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_hd.smil/playlist.m3u8
 #EXTINF:-1,TRT Haber
-https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_hd.smil/playlist.m3u8
+https://tv-trthaber.live.trt.com.tr/master.m3u8
 #EXTINF:-1,Kanal 7
 https://mn-nl.mncdn.com/blutv_kanal7/kanal7_hd.smil/playlist.m3u8
 #EXTINF:-1,A2 TV
@@ -56,11 +56,13 @@ https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/playlist.m3u8
 #EXTINF:-1,TV8.5
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/playlist.m3u8
 #EXTINF:-1,TRT Spor
-https://mn-nl.mncdn.com/blutv_trtspor/smil:trtspor_hd.smil/playlist.m3u8
+https://tv-trtspor1.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Avaz
+https://tv-trtavaz.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT Kurdi
-https://mn-nl.mncdn.com/blutv_trtkurdi/smil:trtkurdi_hd.smil/playlist.m3u8
+https://tv-trtkurdi.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT Türk
-https://mn-nl.mncdn.com/blutv_trtturk/trtturk_hd.smil/playlist.m3u8
+https://tv-trtturk.live.trt.com.tr/master.m3u8
 #EXTINF:-1,Diyanet TV
 https://mn-nl.mncdn.com/blutv_diyanet/smil:diyanet_hd.smil/playlist.m3u8
 #EXTINF:-1,A Spor
@@ -68,21 +70,21 @@ https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
 #EXTINF:-1,TJK TV
 https://mn-nl.mncdn.com/blutv_tjktv/smil:tjktv_hd.smil/playlist.m3u8
 #EXTINF:-1,TRT Müzik
-https://mn-nl.mncdn.com/blutv_trtmuzik/smil:trtmuzik_hd.smil/playlist.m3u8
+https://tv-trtmuzik.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT Arabi
-https://mn-nl.mncdn.com/blutv_trtarapca/smil:trtarapca_hd.smil/playlist.m3u8
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT World
-https://mn-nl.mncdn.com/blutv_trtworld/smil:trtworld_hd.smil/playlist.m3u8
+https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT Çocuk
-https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_hd.smil/playlist.m3u8
+https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT Belgesel
-https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_hd.smil/playlist.m3u8
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT EBA TV - İlkokul
-https://mn-nl.mncdn.com/blutv_ebai/ebai_hd.smil/playlist.m3u8
+https://tv-e-okul00.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT EBA TV - Ortaokul
-https://mn-nl.mncdn.com/blutv_ebao/ebao_hd.smil/playlist.m3u8
+https://tv-e-okul01.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT EBA TV - Lise
-https://mn-nl.mncdn.com/blutv_ebal/ebal_hd.smil/playlist.m3u8
+https://tv-e-okul02.live.trt.com.tr/master.m3u8
 #EXTINF:-1,Kon TV
 https://mn-nl.mncdn.com/blutv_kontv/smil:kontv_hd.smil/playlist.m3u8
 #EXTINF:-1,Kanal B
@@ -119,3 +121,13 @@ https://mn-nl.mncdn.com/blutv_sportstv/smil:sportstv_hd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_taytv/smil:taytv_hd.smil/playlist.m3u8
 #EXTINF:-1,Euro D
 https://mn-nl.mncdn.com/blutv_eurod/eurod_hd.smil/playlist.m3u8
+#EXTINF:-1,Euro Star
+https://xrklj56s.rocketcdn.com/eurostar.smil/chunklist.sltur.m3u8
+#EXTINF:-1,Kral TV
+http://mid5dg6m.rocketcdn.com/kraltv.smil/chunklist.sltur.m3u8
+#EXTINF:-1,Kral Pop
+http://bqgsd19q.rocketcdn.com/kralpop.smil/chunklist.sltur.m3u8
+#EXTINF:-1,TRT 2
+https://tv-trt2-ts.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Spor 2
+https://tv-trtspor2.live.trt.com.tr/master.m3u8
