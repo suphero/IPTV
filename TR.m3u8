@@ -122,6 +122,9 @@ https://tv-e-okul02.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT Çocuk
 #EXTGRP:Çocuk
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+#EXTINF:-1,Yaban TV
+#EXTGRP:Belgesel
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTINF:-1,TRT Belgesel
 #EXTGRP:Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
