@@ -24,6 +24,7 @@ https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/playlist.m3u8
 #EXTGRP:Genel
 https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC",TLC Tv
+#EXTGRP:Tematik
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
 #EXTINF:-1,Bloomberg HT
 #EXTGRP:Haber
@@ -70,6 +71,7 @@ https://mn-nl.mncdn.com/blutv_ekoturk/smil:ekoturk_hd.smil/playlist.m3u8
 #EXTGRP:Haber
 https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_hd.smil/playlist.m3u8
 #EXTINF:-1,DMAX
+#EXTGRP:Tematik
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.sltur.m3u8
 #EXTINF:-1,UçanKuş TV
 #EXTGRP:Genel
@@ -78,6 +80,7 @@ https://mn-nl.mncdn.com/blutv_ucankus/ucankus_hd.smil/playlist.m3u8
 #EXTGRP:Haber
 https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_hd.smil/playlist.m3u8
 #EXTINF:-1,Teve2
+#EXTGRP:Tematik
 https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/playlist.m3u8
 #EXTINF:-1,TBMM TV
 #EXTGRP:Haber
@@ -129,6 +132,7 @@ https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
 #EXTGRP:Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TV8.5
+#EXTGRP:Tematik
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/playlist.m3u8
 #EXTINF:-1,Kon TV
 https://mn-nl.mncdn.com/blutv_kontv/smil:kontv_hd.smil/playlist.m3u8
