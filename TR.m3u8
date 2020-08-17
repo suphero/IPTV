@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show",SHOW TV
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1",TRT 1
+#EXTINF:-1 tvg-id="TRT1HD.tr" tvg-name="TRT 1",TRT 1
 https://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D",Kanal D
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
@@ -9,7 +9,7 @@ https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
 http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox",FOX Tv
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Start.tr" tvg-name="STAR TV",Star TV
+#EXTINF:-1 tvg-id="StarHD.tr" tvg-name="STAR TV",Star TV
 https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8",TV8
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/playlist.m3u8
@@ -19,7 +19,7 @@ https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr",Bloomberg HT
 https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_hd.smil/playlist.m3u8
-#EXTINF:-1,TRT Haber
+#EXTINF:-1 tvg-id="TRTHaberHD.tr",TRT Haber
 https://tv-trthaber.live.trt.com.tr/master.m3u8
 #EXTINF:-1,Kanal 7
 https://mn-nl.mncdn.com/blutv_kanal7/kanal7_hd.smil/playlist.m3u8
@@ -79,7 +79,7 @@ https://mn-nl.mncdn.com/blutv_tjktv/smil:tjktv_hd.smil/playlist.m3u8
 https://tv-trtmuzik.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT Arabi
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT World
+#EXTINF:-1 tvg-id="TRTWorldHD.tr",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT EBA TV - İlkokul
 https://tv-e-okul00.live.trt.com.tr/master.m3u8
@@ -91,7 +91,7 @@ https://tv-e-okul02.live.trt.com.tr/master.m3u8
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1,Yaban TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
-#EXTINF:-1,TRT Belgesel
+#EXTINF:-1 tvg-id="TRTBelgeselHD.tr",TRT Belgesel
 https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TV85.tr",TV8.5
 https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/playlist.m3u8
