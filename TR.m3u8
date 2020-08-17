@@ -81,11 +81,11 @@ https://tv-trtmuzik.live.trt.com.tr/master.m3u8
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorldHD.tr",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT EBA TV - İlkokul
+#EXTINF:-1,eba tv - İlkokul
 https://tv-e-okul00.live.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT EBA TV - Ortaokul
+#EXTINF:-1,eba tv - Ortaokul
 https://tv-e-okul01.live.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT EBA TV - Lise
+#EXTINF:-1,eba tv - Lise
 https://tv-e-okul02.live.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT Çocuk
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
