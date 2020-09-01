@@ -12,7 +12,7 @@ https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="StarHD.tr" tvg-name="STAR TV",Star TV
 https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8",TV8
-https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd2.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd2.smil/chunklist_b1314000.m3u8
 #EXTINF:-1 tvg-id="360.tr",360
 https://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC",TLC Tv
