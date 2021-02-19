@@ -6,7 +6,7 @@ https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D",Kanal D
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV",ATV
-http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
+https://zagent1912.h-cdn.com/preview.mp4?customer=atv&url=https%3A%2F%2Fatv-vod.ercdn.net%2Fvideo%2F2021%2F02%2Fd86e0bd0-5815-464f-9ba1-34ee087367df.hb.smil%2Fplaylist.m3u8%3Fst%3DX5k-a3Hx62t1nV9-Q4ye5g%26e%3D1613727796%26SessionID%3D1.3.1147850316.1613682404%26StreamGroup%3Dakinci%26Site%3Datv%26DeviceGroup%3Dmobil
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox",FOX Tv
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="StarHD.tr" tvg-name="STAR TV",Star TV
