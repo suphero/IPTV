@@ -135,3 +135,15 @@ http://mid5dg6m.rocketcdn.com/kraltv.smil/chunklist.sltur.m3u8
 http://bqgsd19q.rocketcdn.com/kralpop.smil/chunklist.sltur.m3u8
 #EXTINF:-1,TGRT Belgesel
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
+#EXTINF:-1,Selçuk Sports - Alternatif 1
+https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_1.m3u8
+#EXTINF:-1,Selçuk Sports - Alternatif 2
+https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_2.m3u8
+#EXTINF:-1,Selçuk Sports - Alternatif 3
+https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_3.m3u8
+#EXTINF:-1,Selçuk Sports - Alternatif 4
+https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_4.m3u8
+#EXTINF:-1,Selçuk Sports - Alternatif 5
+https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_5.m3u8
+#EXTINF:-1,Selçuk Sports - Alternatif 6
+https://528dc4ef17d725ed.mediapackage.eu-central-1.amazonaws.com/out/v1/eb0737453a18465699f31a622649ded5/manifest_6.m3u8
