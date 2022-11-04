@@ -1,0 +1,514 @@
+org: suphero
+app: iptv
+service: iptv
+
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+  environment:
+    DB_URL: ${param:DB_URL}
+    CHANNEL_SCHEDULE: ${param:CHANNEL_SCHEDULE}
+
+params:
+  local:
+    DB_URL: mongodb://127.0.0.1:27017/iptv
+    CHANNEL_SCHEDULE: rate(1 minute)
+
+functions:
+  channels:
+    handler: handler.channels
+    events:
+      - httpApi:
+          path: /channels
+          method: get
+  abcnews:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: w_Ma8oQLmSM
+      TYPE: ABCNews
+  alemfm:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: oIC-6Zoqwv0
+      TYPE: AlemFM
+  aljazeera:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: -upyPouRrB8
+      TYPE: AlJazeera
+  anews:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: hINyxJUspSo
+      TYPE: ANews
+  arti:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: l0OqjjxIPMQ
+      TYPE: Arti
+  ahaber:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: LNGUSXBMWW8
+      TYPE: AHaber
+  aspor:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: Gb5kWKPRljI
+      TYPE: ASpor
+  babaradyo:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: pVfYC4EKA_4
+      TYPE: BabaRadyo
+  beinhaber:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: r2vPH7d-_V8
+      TYPE: BeinHaber
+  benguturk:
+    handler: handler.rawPlaylist
+    # events:
+    #   - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      URL: https://59c7ea6bec1c6.streamlock.net/live/benguturk.stream/playlist.m3u8?hash=84a9cee8407e041dfdaf965d1584c51b
+      TYPE: BenguTurk
+  bestfm:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: 8aSGdOJQJys
+      TYPE: BestFM
+  beyaztv:
+    handler: handler.rawPlaylist
+    # events:
+    #   - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      URL: https://59c7ea6bec1c6.streamlock.net/live/beyaztv.stream/playlist.m3u8?hash=84a9cee8407e041dfdaf965d1584c51b
+      TYPE: BeyazTV
+  beykenttv:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: Hgmj1V3BAos
+      TYPE: BeykentTV
+  bloomberg:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: hI2_LfQr63U
+      TYPE: BloombergHT
+  cartoonnetwork:
+    handler: handler.rawPlaylist
+    # events:
+    #   - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      URL: https://59cba4d34b678.streamlock.net/live2/cartoon-network.stream/playlist.m3u8?hash=84a9cee8407e041dfdaf965d1584c51b
+      TYPE: CartoonNetwork
+  cnnturk:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: X_EWYemclKA
+      TYPE: CnnTurk
+  dmax:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: WsR20zYhbIM
+      TYPE: DMAX
+  dwnews:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: V9KZGs1MtP4
+      TYPE: DWNews
+  flashtv:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: WbbBPXz6674
+      TYPE: FlashTV
+  france24:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: jNhh-OLzWlE
+      TYPE: France24
+  fox:
+    handler: handler.rawWeb
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      URL: https://www.fox.com.tr/canli-yayin
+      REGEX: "videoSrc : .* ? '(.*)' : '"
+      TYPE: Fox
+  haberglobal:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: AvvxMrohSBk
+      TYPE: HaberGlobal
+  haberturk:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: SqHIO2zhxbA
+      TYPE: HaberTurk
+  halktv:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: AzwT-gEsZBg
+      TYPE: HalkTV
+  indiatoday:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: a7lvV75-iAk
+      TYPE: IndiaToday
+  jellycam:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: fb8dk9w3fnQ
+      TYPE: JellyCam
+  joyturk:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: mOd6_kkWgvs
+      TYPE: JoyTurk
+  kralpop:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: dEHMR7Qpthw
+      TYPE: KralPop
+  kanald:
+    handler: handler.rawWeb
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      URL: https://www.kanald.com.tr/canli-yayin
+      REGEX: 'contentUrl":"https.*(https.*)","image'
+      TYPE: KanalD
+  krt:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: bEMPAaOPWJI
+      TYPE: KRT
+  kontv:
+    handler: handler.rawPlaylist
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      URL: https://59cba4d34b678.streamlock.net/canlitv/kontv/playlist.m3u8
+      TYPE: KonTV
+  nasa:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: 21X5lGlDOfg
+      TYPE: NASA
+  nasamedia:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: nA9UZF-SZoQ
+      TYPE: NASAMedia
+  nbcnews:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: 7BFuwlGOArs
+      TYPE: NBCNews
+  ndtv:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: WB-y7_ymPJ4
+      TYPE: NDTV
+  ntv:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: XEJM4Hcgd3M
+      TYPE: NTV
+  numberone:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: juNC3GLqKTw
+      TYPE: NumberOne
+  ocean1:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: poKhjCJn_ek
+      TYPE: Ocean1
+  ocean2:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: E9NhIcfRPSw
+      TYPE: Ocean2
+  ocean3:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: w79wyJdjqrU
+      TYPE: Ocean3
+  pokerstars:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: cXVAbNdunY4
+      TYPE: PokerStars
+  powerturk:
+    handler: handler.rawWeb
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      URL: https://www.powerapp.com.tr/tvs/power-tvs/powerturktv
+      REGEX: 'media\\":\[\\"(.*)\\"]'
+      TYPE: PowerTurk
+  powertv:
+    handler: handler.rawWeb
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      URL: https://www.powerapp.com.tr/tvs/power-tvs/powertv
+      REGEX: 'media\\":\[\\"(.*)\\"]'
+      TYPE: PowerHd
+  republic:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: 2BP6mKGLp-g
+      TYPE: Republic
+  showtv:
+    handler: handler.rawWeb
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      URL: https://www.showtv.com.tr/canli-yayin
+      REGEX: 'ht_stream_m3u8":"(.*)","ht_live":'
+      TYPE: ShowTv
+  slowturk:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: 1oOaxpk7Xyw
+      TYPE: SlowTurk
+  skynews:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: 9Auq9mYxFEE
+      TYPE: SkyNews
+  superfm:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: qo87YWe2qJM
+      TYPE: SuperFM
+  tele1:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: _eo02jESsAE
+      TYPE: Tele1
+  teve2:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: O3DbrEOVUS8
+      TYPE: Teve2
+  tgrtbelgesel:
+    handler: handler.rawPlaylist
+    # events:
+    #   - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      URL: https://59c7ea6bec1c6.streamlock.net/live/tgrtbelgesel.stream/playlist.m3u8?hash=84a9cee8407e041dfdaf965d1584c51b
+      TYPE: TGRTBelgesel
+  tgrthaber:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: tCUlpSq06rw
+      TYPE: TGRTHaber
+  tjk:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: zBYrBc3T2DA
+      TYPE: TJK
+  tlc:
+    handler: handler.rawPlaylist
+    # events:
+    #   - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      URL: https://59c7ea6bec1c6.streamlock.net/live/tlc.stream/playlist.m3u8?hash=84a9cee8407e041dfdaf965d1584c51b
+      TYPE: TLC
+  tropicalreef:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: F109TZt3nRc
+      TYPE: TropicalReef
+  trthaber:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: qcYsuI_MaJ8
+      TYPE: TrtHaber
+  trtworld:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: CV5Fooi8YJA
+      TYPE: TrtWorld
+  tv100:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: 8jEXHzMTR7s
+      TYPE: TV100
+  tv24:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: cjrs0ALpsRE
+      TYPE: TV24
+  tv5:
+    handler: handler.rawPlaylist
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      URL:  https://59cba4d34b678.streamlock.net/canlitv/tv5/playlist.m3u8?hash=84a9cee8407e041dfdaf965d1584c51b
+      TYPE: TV5
+  tv8:
+    handler: handler.rawWeb
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      URL: https://www.tv8.com.tr/canli-yayin
+      REGEX: 'file: "(https:\/\/.*.m3u8.*)", width'
+      TYPE: Tv8
+  tv85:
+    handler: handler.rawPlaylist
+    # events:
+    #   - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      URL:  https://59cba4d34b678.streamlock.net/live2/tv8-5.stream/playlist.m3u8?hash=84a9cee8407e041dfdaf965d1584c51b
+      TYPE: TV85
+  tvnet:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: hJ-zzxLmWkI
+      TYPE: TVNET
+  ufc:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: JIPRZhAbpb4
+      TYPE: UFC
+  ulketv:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: 549uiMkIKBU
+      TYPE: UlkeTV
+  ulusalkanal:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: _SamxaR4ggs
+      TYPE: UlusalKanal
+  wion:
+    handler: handler.youtube
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      ID: DyCpI9tKY0g
+      TYPE: WION
+  yabantv:
+    handler: handler.rawPlaylist
+    events:
+      - schedule: ${param:CHANNEL_SCHEDULE}
+    environment:
+      URL: https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8?hash=84a9cee8407e041dfdaf965d1584c51b
+      TYPE: YabanTV
+
+plugins:
+  - serverless-offline
+
+custom:
+  serverless-offline:
+    httpPort: 4000

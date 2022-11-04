@@ -1,0 +1,21 @@
+{
+  "name": "iptv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "dev": "sls offline --stage local",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "invoke:showtv": "sls invoke local --function showtv --stage local"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "mongoose": "^6.2.4"
+  },
+  "devDependencies": {
+    "serverless": "^3.4.0",
+    "serverless-offline": "^8.5.0"
+  }
+}
