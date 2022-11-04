@@ -6,7 +6,7 @@ https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D",Kanal D
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV",ATV
-https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=4NQEn1m2uhmmUswtwOThrQ&e=1667643080&gdpr=0
+https://list.iptvcat.com/my_list/s/317a950aeff8f81551a3ad59c265825c.m3u8
 #EXTINF:-1 tvg-id="Fox.tr" tvg-name="Fox",FOX Tv
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="StarHD.tr" tvg-name="STAR TV",Star TV
